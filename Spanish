@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="4" original="/main/Strings" source-language="en" target-language="es-ES" datatype="plaintext" project-id="734245" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="86" resname="pageSigninVerificationCode.subTitle1">
+        <source>we've sent a text with a</source>
+        <target state="needs-translation">we've sent a text with a</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; subTitle1</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62" resname="pageSignIn.pending">
+        <source>Working...</source>
+        <target state="needs-translation">Working...</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; pending</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="64" resname="pageSignIn.pendingResend">
+        <source>Sending OTP...</source>
+        <target state="needs-translation">Sending OTP...</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; pendingResend</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="66" resname="pageSignIn.pendingVerifyOTP">
+        <source>Verifying OTP code...</source>
+        <target state="needs-translation">Verifying OTP code...</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; pendingVerifyOTP</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="68" resname="pageSignIn.verifyOTP">
+        <source>OTP verified.</source>
+        <target state="needs-translation">OTP verified.</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; verifyOTP</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="70" resname="pageSigninEnterPhoneNumber.title">
+        <source>Enter your phone</source>
+        <target state="needs-translation">Enter your phone</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterPhoneNumber -&gt; title</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="72" resname="pageSigninEnterPhoneNumber.title2">
+        <source>number</source>
+        <target state="needs-translation">number</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterPhoneNumber -&gt; title2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="74" resname="pageSigninEnterPhoneNumber.subTitle">
+        <source>Messaging and data rates</source>
+        <target state="needs-translation">Messaging and data rates</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterPhoneNumber -&gt; subTitle</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="76" resname="pageSigninEnterPhoneNumber.subTitle2">
+        <source>may apply</source>
+        <target state="needs-translation">may apply</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterPhoneNumber -&gt; subTitle2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="78" resname="pageSigninEnterPhoneNumber.defaultCountryCode">
+        <source>US +1</source>
+        <target state="needs-translation">US +1</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterPhoneNumber -&gt; defaultCountryCode</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="80" resname="pageSigninVerificationCode.title">
+        <source>Enter verification</source>
+        <target state="needs-translation">Enter verification</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; title</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="82" resname="pageSigninVerificationCode.title2">
+        <source>Code</source>
+        <target state="needs-translation">Code</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; title2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="84" resname="pageSigninVerificationCode.subTitle">
+        <source>We've sent a text with a </source>
+        <target state="needs-translation">We've sent a text with a </target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; subTitle</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="60" resname="pageSignIn.OTPSentMessage">
+        <source>OTP code sent</source>
+        <target state="needs-translation">OTP code sent</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; OTPSentMessage</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="88" resname="pageSigninVerificationCode.subTitle2">
+        <source>verification code</source>
+        <target state="needs-translation">verification code</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; subTitle2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="90" resname="pageSigninVerificationCode.error">
+        <source>You have entered an incorrect verification code</source>
+        <target state="needs-translation">You have entered an incorrect verification code</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; error</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92" resname="pageSigninVerificationCode.resend">
+        <source>Resend Code</source>
+        <target state="needs-translation">Resend Code</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; resend</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="94" resname="pageSigninVerificationCode.resentOTP">
+        <source>Resend Code in</source>
+        <target state="needs-translation">Resend Code in</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; resentOTP</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="96" resname="pageSigninVerificationCode.resentOTPInterval">
+        <source>s</source>
+        <target state="needs-translation">s</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninVerificationCode -&gt; resentOTPInterval</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="98" resname="pageSigninEnterEmail.titleShort">
+        <source>Email</source>
+        <target state="needs-translation">Email</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterEmail -&gt; titleShort</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="100" resname="pageSigninEnterEmail.title">
+        <source>Enter your email</source>
+        <target state="needs-translation">Enter your email</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterEmail -&gt; title</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="102" resname="pageSigninEnterEmail.title1" translate="no">
+        <source></source>
+        <target></target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterEmail -&gt; title1</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="104" resname="pageSigninEnterEmail.title2">
+        <source>address</source>
+        <target state="needs-translation">address</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterEmail -&gt; title2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="106" resname="pageSigninEnterEmail.subTitle">
+        <source>The email will be linked to</source>
+        <target state="needs-translation">The email will be linked to</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterEmail -&gt; subTitle</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="108" resname="pageSigninEnterEmail.subTitle2">
+        <source>your CazVid Account</source>
+        <target state="needs-translation">your CazVid Account</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSigninEnterEmail -&gt; subTitle2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="36" resname="pageGetStarted.subtitle2">
+        <source>Terms and Conditions</source>
+        <target state="needs-translation">Terms and Conditions</target>
+        <context-group purpose="information">
+          <context context-type="source">pageGetStarted -&gt; subtitle2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="14" resname="Meta.welcome">
+        <source>Welcome to CazVid desktop</source>
+        <target state="needs-translation">Welcome to CazVid desktop</target>
+        <context-group purpose="information">
+          <context context-type="source">Meta -&gt; welcome</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="16" resname="Locales.en">
+        <source>English</source>
+        <target state="needs-translation">English</target>
+        <context-group purpose="information">
+          <context context-type="source">Locales -&gt; en</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="18" resname="Locales.nl">
+        <source>Dutch</source>
+        <target state="needs-translation">Dutch</target>
+        <context-group purpose="information">
+          <context context-type="source">Locales -&gt; nl</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="20" resname="Locales.es">
+        <source>Spanish</source>
+        <target state="needs-translation">Spanish</target>
+        <context-group purpose="information">
+          <context context-type="source">Locales -&gt; es</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22" resname="Locales.pk">
+        <source>Urdu</source>
+        <target state="needs-translation">Urdu</target>
+        <context-group purpose="information">
+          <context context-type="source">Locales -&gt; pk</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="24" resname="Locales.pt">
+        <source>Portuguese</source>
+        <target state="needs-translation">Portuguese</target>
+        <context-group purpose="information">
+          <context context-type="source">Locales -&gt; pt</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="26" resname="Locales.fr">
+        <source>French</source>
+        <target state="needs-translation">French</target>
+        <context-group purpose="information">
+          <context context-type="source">Locales -&gt; fr</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="28" resname="pageGetStarted.title">
+        <source>Video job listings and</source>
+        <target state="needs-translation">Video job listings and</target>
+        <context-group purpose="information">
+          <context context-type="source">pageGetStarted -&gt; title</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="30" resname="pageGetStarted.title2">
+        <source>video resumes</source>
+        <target state="needs-translation">video resumes</target>
+        <context-group purpose="information">
+          <context context-type="source">pageGetStarted -&gt; title2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="32" resname="pageGetStarted.subTitle">
+        <source>I am over 18 and I agree to the</source>
+        <target state="needs-translation">I am over 18 and I agree to the</target>
+        <context-group purpose="information">
+          <context context-type="source">pageGetStarted -&gt; subTitle</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34" resname="pageGetStarted.subTitleLong">
+        <source>I am over 18 and I agree to the terms and services</source>
+        <target state="needs-translation">I am over 18 and I agree to the terms and services</target>
+        <context-group purpose="information">
+          <context context-type="source">pageGetStarted -&gt; subTitleLong</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="12" resname="Meta.title">
+        <source>CazVid Desktop</source>
+        <target state="needs-translation">CazVid Desktop</target>
+        <context-group purpose="information">
+          <context context-type="source">Meta -&gt; title</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="38" resname="pageGetStarted.error">
+        <source>Please agree to the terms and conditions before continuing.</source>
+        <target state="needs-translation">Please agree to the terms and conditions before continuing.</target>
+        <context-group purpose="information">
+          <context context-type="source">pageGetStarted -&gt; error</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40" resname="pageSignIn.title">
+        <source>Create an Account</source>
+        <target state="needs-translation">Create an Account</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; title</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="42" resname="pageSignIn.title2">
+        <source>or Sign In</source>
+        <target state="needs-translation">or Sign In</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; title2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="44" resname="pageSignIn.subTitle">
+        <source>It's always free to share videos</source>
+        <target state="needs-translation">It's always free to share videos</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; subTitle</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="46" resname="pageSignIn.subTitle2">
+        <source>and communicate with others</source>
+        <target state="needs-translation">and communicate with others</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; subTitle2</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="48" resname="pageSignIn.defaultCountryCode">
+        <source>+1</source>
+        <target state="needs-translation">+1</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; defaultCountryCode</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="50" resname="pageSignIn.defaultCountryCodeISO">
+        <source>US</source>
+        <target state="needs-translation">US</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; defaultCountryCodeISO</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="52" resname="pageSignIn.signInGoogle">
+        <source>Sign in with Google</source>
+        <target state="needs-translation">Sign in with Google</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; signInGoogle</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="54" resname="pageSignIn.signInApple">
+        <source>Sign in with Apple</source>
+        <target state="needs-translation">Sign in with Apple</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; signInApple</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="56" resname="pageSignIn.signInEmail">
+        <source>Sign in with email</source>
+        <target state="needs-translation">Sign in with email</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; signInEmail</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="58" resname="pageSignIn.signInCaz">
+        <source>Sign-in to Cazvid</source>
+        <target state="needs-translation">Sign-in to Cazvid</target>
+        <context-group purpose="information">
+          <context context-type="source">pageSignIn -&gt; signInCaz</context>
+          <context context-type="x-crowdin-label">CazVid_translate.json</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
