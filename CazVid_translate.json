@@ -1,0 +1,66 @@
+{
+  "dashboard": "Dashboard page title from translation file",
+  "Meta": {
+    "title": "CazVid Desktop",
+    "welcome": "Welcome to CazVid desktop"
+  },
+  "Locales": {
+    "en": "English",
+    "nl": "Dutch",
+    "es": "Spanish",
+    "pk": "Urdu",
+    "pt": "Portuguese",
+    "fr": "French"
+  },
+  "pageGetStarted": {
+    "title": "Video job listings and",
+    "title2": "video resumes",
+    "subTitle": "I am over 18 and I agree to the",
+    "subTitleLong": "I am over 18 and I agree to the terms and services",
+    "subtitle2": "Terms and Conditions",
+    "error": "Please agree to the terms and conditions before continuing."
+  },
+  "pageSignIn": {
+    "title": "Create an Account",
+    "title2": "or Sign In",
+    "subTitle": "It's always free to share videos",
+    "subTitle2": "and communicate with others",
+    "defaultCountryCode": "+1",
+    "defaultCountryCodeISO": "US",
+    "signInGoogle": "Sign in with Google",
+    "signInApple": "Sign in with Apple",
+    "signInEmail": "Sign in with email",
+    "signInCaz": "Sign-in to Cazvid",
+    "OTPSentMessage": "OTP code sent",
+    "pending": "Working...",
+    "pendingResend": "Sending OTP...",
+    "pendingVerifyOTP": "Verifying OTP code...",
+    "verifyOTP": "OTP verified."
+  },
+  "pageSigninEnterPhoneNumber": {
+    "title": "Enter your phone",
+    "title2": "number",
+    "subTitle": "Messaging and data rates",
+    "subTitle2": "may apply",
+    "defaultCountryCode": "US +1"
+  },
+  "pageSigninVerificationCode": {
+    "title": "Enter verification",
+    "title2": "Code",
+    "subTitle": "We've sent a text with a ",
+    "subTitle1": "we've sent a text with a",
+    "subTitle2": "verification code",
+    "error": "You have entered an incorrect verification code",
+    "resend": "Resend Code",
+    "resentOTP": "Resend Code in",
+    "resentOTPInterval": "s"
+  },
+  "pageSigninEnterEmail": {
+    "titleShort": "Email",
+    "title": "Enter your email",
+    "title1": "",
+    "title2": "address",
+    "subTitle": "The email will be linked to",
+    "subTitle2": "your CazVid Account"
+  }
+}
